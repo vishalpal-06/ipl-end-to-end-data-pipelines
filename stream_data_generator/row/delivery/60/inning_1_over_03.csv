@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,3,1,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,0,0,0,0,0,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,3,2,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,0,0,0,0,0,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,3,3,SC Ganguly,BB McCullum,P Kumar,0,0,0,1,0,0,0,1,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,3,4,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,0,0,4,0,4,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,3,5,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,3,6,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,0,0,0,0,0,,,

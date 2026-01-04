@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,20,1,SM Katich,IK Pathan,Joginder Sharma,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,20,2,IK Pathan,SM Katich,Joginder Sharma,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,20,3,SM Katich,IK Pathan,Joginder Sharma,0,0,0,0,0,0,0,0,0,,,
+61,2,Kings XI Punjab,Chennai Super Kings,20,4,SM Katich,IK Pathan,Joginder Sharma,0,0,0,0,0,0,6,0,6,,,
+61,2,Kings XI Punjab,Chennai Super Kings,20,5,SM Katich,IK Pathan,Joginder Sharma,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,20,6,IK Pathan,SM Katich,Joginder Sharma,0,0,0,0,0,0,0,0,0,,,

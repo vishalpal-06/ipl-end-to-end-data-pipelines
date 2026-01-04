@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,12,1,RA Jadeja,M Rawat,DL Vettori,0,0,0,0,0,0,6,0,6,,,
+62,1,Rajasthan Royals,Delhi Daredevils,12,2,RA Jadeja,M Rawat,DL Vettori,0,0,0,0,0,0,4,0,4,,,
+62,1,Rajasthan Royals,Delhi Daredevils,12,3,RA Jadeja,M Rawat,DL Vettori,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,12,4,M Rawat,RA Jadeja,DL Vettori,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,12,5,M Rawat,RA Jadeja,DL Vettori,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,12,6,RA Jadeja,M Rawat,DL Vettori,0,0,0,0,0,0,0,0,0,,,

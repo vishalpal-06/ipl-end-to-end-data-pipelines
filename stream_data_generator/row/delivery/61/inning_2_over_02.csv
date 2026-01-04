@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,2,1,K Goel,JR Hopes,MS Gony,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,2,2,JR Hopes,K Goel,MS Gony,0,0,0,0,0,0,0,0,0,,,
+61,2,Kings XI Punjab,Chennai Super Kings,2,3,JR Hopes,K Goel,MS Gony,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,2,4,K Goel,JR Hopes,MS Gony,0,0,0,0,0,0,0,0,0,,,
+61,2,Kings XI Punjab,Chennai Super Kings,2,5,K Goel,JR Hopes,MS Gony,0,0,0,0,0,0,4,0,4,,,
+61,2,Kings XI Punjab,Chennai Super Kings,2,6,K Goel,JR Hopes,MS Gony,0,0,0,0,0,0,1,0,1,,,

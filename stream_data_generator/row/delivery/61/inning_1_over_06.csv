@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,1,Chennai Super Kings,Kings XI Punjab,6,1,ML Hayden,MEK Hussey,JR Hopes,0,0,0,0,0,0,4,0,4,,,
+61,1,Chennai Super Kings,Kings XI Punjab,6,2,ML Hayden,MEK Hussey,JR Hopes,0,0,0,0,0,0,6,0,6,,,
+61,1,Chennai Super Kings,Kings XI Punjab,6,3,ML Hayden,MEK Hussey,JR Hopes,0,0,0,0,0,0,0,0,0,,,
+61,1,Chennai Super Kings,Kings XI Punjab,6,4,ML Hayden,MEK Hussey,JR Hopes,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,6,5,MEK Hussey,ML Hayden,JR Hopes,0,0,0,0,0,0,0,0,0,,,
+61,1,Chennai Super Kings,Kings XI Punjab,6,6,MEK Hussey,ML Hayden,JR Hopes,0,0,0,0,0,0,0,0,0,,,

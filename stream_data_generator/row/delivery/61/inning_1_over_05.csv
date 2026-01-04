@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,1,Chennai Super Kings,Kings XI Punjab,5,1,ML Hayden,MEK Hussey,B Lee,0,0,0,0,0,0,0,0,0,,,
+61,1,Chennai Super Kings,Kings XI Punjab,5,2,ML Hayden,MEK Hussey,B Lee,0,0,0,1,0,0,0,1,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,5,3,MEK Hussey,ML Hayden,B Lee,0,0,0,0,0,0,4,0,4,,,
+61,1,Chennai Super Kings,Kings XI Punjab,5,4,MEK Hussey,ML Hayden,B Lee,0,0,0,0,0,0,4,0,4,,,
+61,1,Chennai Super Kings,Kings XI Punjab,5,5,MEK Hussey,ML Hayden,B Lee,0,0,0,0,0,0,0,0,0,,,
+61,1,Chennai Super Kings,Kings XI Punjab,5,6,MEK Hussey,ML Hayden,B Lee,0,0,0,0,0,0,0,0,0,,,

@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,1,JH Kallis,W Jaffer,AB Agarkar,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,2,W Jaffer,JH Kallis,AB Agarkar,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,3,JH Kallis,W Jaffer,AB Agarkar,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,4,JH Kallis,W Jaffer,AB Agarkar,0,0,0,0,0,0,6,0,6,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,5,JH Kallis,W Jaffer,AB Agarkar,0,0,0,0,0,0,0,0,0,JH Kallis,caught,M Kartik
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,5,6,CL White,W Jaffer,AB Agarkar,0,0,0,0,0,0,0,0,0,,,

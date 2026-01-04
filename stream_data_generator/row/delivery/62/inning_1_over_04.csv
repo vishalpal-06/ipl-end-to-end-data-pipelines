@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,4,1,YK Pathan,SR Watson,B Geeves,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,4,2,SR Watson,YK Pathan,B Geeves,0,0,0,0,0,0,4,0,4,,,
+62,1,Rajasthan Royals,Delhi Daredevils,4,3,SR Watson,YK Pathan,B Geeves,0,0,0,0,0,0,4,0,4,,,
+62,1,Rajasthan Royals,Delhi Daredevils,4,4,SR Watson,YK Pathan,B Geeves,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,4,5,YK Pathan,SR Watson,B Geeves,0,0,0,0,0,0,0,0,0,YK Pathan,run out,M Manhas
+62,1,Rajasthan Royals,Delhi Daredevils,4,6,SR Watson,M Kaif,B Geeves,0,0,0,0,0,0,4,0,4,,,

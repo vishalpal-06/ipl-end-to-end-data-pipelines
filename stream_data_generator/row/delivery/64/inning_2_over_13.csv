@@ -1,0 +1,9 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,2,Kolkata Knight Riders,Deccan Chargers,13,1,SC Ganguly,DJ Hussey,PP Ojha,0,1,0,0,0,0,0,1,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,2,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,3,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,4,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,5,DJ Hussey,SC Ganguly,PP Ojha,0,1,0,0,0,0,0,1,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,6,DJ Hussey,SC Ganguly,PP Ojha,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,7,DJ Hussey,SC Ganguly,PP Ojha,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,13,8,SC Ganguly,DJ Hussey,PP Ojha,0,0,0,0,0,0,0,0,0,SC Ganguly,bowled,

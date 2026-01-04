@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,1,Deccan Chargers,Kolkata Knight Riders,16,1,SB Bangar,A Symonds,I Sharma,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,16,2,SB Bangar,A Symonds,I Sharma,0,0,0,0,0,0,1,0,1,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,16,3,A Symonds,SB Bangar,I Sharma,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,16,4,A Symonds,SB Bangar,I Sharma,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,16,5,A Symonds,SB Bangar,I Sharma,0,1,0,0,0,0,0,1,1,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,16,6,A Symonds,SB Bangar,I Sharma,0,0,0,0,0,0,2,0,2,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,16,7,A Symonds,SB Bangar,I Sharma,0,0,0,0,0,0,1,0,1,,,

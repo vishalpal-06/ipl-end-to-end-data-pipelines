@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,16,1,SK Warne,D Salunkhe,B Geeves,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,16,2,SK Warne,D Salunkhe,B Geeves,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,16,3,SK Warne,D Salunkhe,B Geeves,0,0,0,0,0,0,4,0,4,,,
+62,1,Rajasthan Royals,Delhi Daredevils,16,4,SK Warne,D Salunkhe,B Geeves,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,16,5,SK Warne,D Salunkhe,B Geeves,0,0,0,0,0,0,4,0,4,,,
+62,1,Rajasthan Royals,Delhi Daredevils,16,6,SK Warne,D Salunkhe,B Geeves,0,0,0,0,0,0,2,0,2,,,

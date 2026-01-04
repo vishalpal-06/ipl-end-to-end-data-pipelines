@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,1,Chennai Super Kings,Kings XI Punjab,11,1,MEK Hussey,SK Raina,PP Chawla,0,0,0,0,0,0,6,0,6,,,
+61,1,Chennai Super Kings,Kings XI Punjab,11,2,MEK Hussey,SK Raina,PP Chawla,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,11,3,SK Raina,MEK Hussey,PP Chawla,0,0,0,0,0,0,2,0,2,,,
+61,1,Chennai Super Kings,Kings XI Punjab,11,4,SK Raina,MEK Hussey,PP Chawla,0,0,0,0,0,0,0,0,0,,,
+61,1,Chennai Super Kings,Kings XI Punjab,11,5,SK Raina,MEK Hussey,PP Chawla,0,0,0,0,0,0,6,0,6,,,
+61,1,Chennai Super Kings,Kings XI Punjab,11,6,SK Raina,MEK Hussey,PP Chawla,0,0,0,0,0,0,4,0,4,,,

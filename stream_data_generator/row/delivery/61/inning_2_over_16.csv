@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,16,1,SM Katich,KC Sangakkara,P Amarnath,0,0,0,0,0,0,2,0,2,,,
+61,2,Kings XI Punjab,Chennai Super Kings,16,2,SM Katich,KC Sangakkara,P Amarnath,0,0,1,0,0,0,0,1,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,16,3,KC Sangakkara,SM Katich,P Amarnath,0,0,0,0,0,0,4,0,4,,,
+61,2,Kings XI Punjab,Chennai Super Kings,16,4,KC Sangakkara,SM Katich,P Amarnath,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,16,5,SM Katich,KC Sangakkara,P Amarnath,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,16,6,KC Sangakkara,SM Katich,P Amarnath,0,0,0,0,0,0,2,0,2,,,

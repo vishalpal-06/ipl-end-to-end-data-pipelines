@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,2,Kolkata Knight Riders,Deccan Chargers,6,1,SC Ganguly,DJ Hussey,SB Styris,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,6,2,DJ Hussey,SC Ganguly,SB Styris,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,6,3,DJ Hussey,SC Ganguly,SB Styris,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,6,4,DJ Hussey,SC Ganguly,SB Styris,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,6,5,DJ Hussey,SC Ganguly,SB Styris,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,6,6,SC Ganguly,DJ Hussey,SB Styris,0,0,0,0,0,0,1,0,1,,,

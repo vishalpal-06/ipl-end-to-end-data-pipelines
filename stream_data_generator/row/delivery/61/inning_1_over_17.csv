@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,1,Chennai Super Kings,Kings XI Punjab,17,1,MEK Hussey,S Badrinath,S Sreesanth,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,17,2,S Badrinath,MEK Hussey,S Sreesanth,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,17,3,MEK Hussey,S Badrinath,S Sreesanth,0,0,0,0,0,0,6,0,6,,,
+61,1,Chennai Super Kings,Kings XI Punjab,17,4,MEK Hussey,S Badrinath,S Sreesanth,0,0,0,0,0,0,4,0,4,,,
+61,1,Chennai Super Kings,Kings XI Punjab,17,5,MEK Hussey,S Badrinath,S Sreesanth,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,17,6,S Badrinath,MEK Hussey,S Sreesanth,0,0,0,0,0,0,1,0,1,,,

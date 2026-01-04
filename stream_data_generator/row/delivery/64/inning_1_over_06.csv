@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,1,Deccan Chargers,Kolkata Knight Riders,6,1,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,0,0,6,0,6,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,6,2,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,6,3,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,0,0,6,0,6,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,6,4,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,0,0,4,0,4,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,6,5,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,6,6,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,0,0,0,0,0,,,

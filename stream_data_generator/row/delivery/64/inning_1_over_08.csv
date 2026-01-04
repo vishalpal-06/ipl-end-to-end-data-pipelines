@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,1,Deccan Chargers,Kolkata Knight Riders,8,1,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,8,2,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,0,1,0,0,1,1,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,8,3,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,8,4,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,0,0,0,1,0,1,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,8,5,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,8,6,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,8,7,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,0,0,0,0,0,0,,,

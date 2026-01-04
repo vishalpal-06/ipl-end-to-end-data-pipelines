@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,11,1,M Kaif,RA Jadeja,R Bhatia,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,11,2,M Kaif,RA Jadeja,R Bhatia,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,11,3,M Kaif,RA Jadeja,R Bhatia,0,0,0,0,0,0,0,0,0,M Kaif,caught,B Geeves
+62,1,Rajasthan Royals,Delhi Daredevils,11,4,M Rawat,RA Jadeja,R Bhatia,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,11,5,RA Jadeja,M Rawat,R Bhatia,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,11,6,RA Jadeja,M Rawat,R Bhatia,0,0,0,0,0,0,1,0,1,,,

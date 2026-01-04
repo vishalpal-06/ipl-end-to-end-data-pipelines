@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,1,V Kohli,W Jaffer,AB Dinda,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,2,V Kohli,W Jaffer,AB Dinda,0,0,0,0,0,0,0,0,0,V Kohli,bowled,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,3,JH Kallis,W Jaffer,AB Dinda,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,4,W Jaffer,JH Kallis,AB Dinda,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,5,W Jaffer,JH Kallis,AB Dinda,0,1,0,0,0,0,0,1,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,6,W Jaffer,JH Kallis,AB Dinda,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,3,7,W Jaffer,JH Kallis,AB Dinda,0,0,0,0,0,0,1,0,1,,,

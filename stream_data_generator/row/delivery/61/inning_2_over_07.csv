@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,7,1,KC Sangakkara,JR Hopes,M Muralitharan,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,7,2,JR Hopes,KC Sangakkara,M Muralitharan,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,7,3,KC Sangakkara,JR Hopes,M Muralitharan,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,7,4,JR Hopes,KC Sangakkara,M Muralitharan,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,7,5,KC Sangakkara,JR Hopes,M Muralitharan,0,0,0,1,0,0,0,1,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,7,6,JR Hopes,KC Sangakkara,M Muralitharan,0,0,0,0,0,0,1,0,1,,,

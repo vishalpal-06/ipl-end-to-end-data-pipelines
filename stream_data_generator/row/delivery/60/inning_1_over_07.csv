@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,7,1,BB McCullum,RT Ponting,AA Noffke,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,7,2,RT Ponting,BB McCullum,AA Noffke,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,7,3,BB McCullum,RT Ponting,AA Noffke,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,7,4,RT Ponting,BB McCullum,AA Noffke,0,0,0,0,0,0,2,0,2,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,7,5,RT Ponting,BB McCullum,AA Noffke,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,7,6,BB McCullum,RT Ponting,AA Noffke,0,0,0,0,0,0,1,0,1,,,

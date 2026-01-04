@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,19,1,SM Katich,IK Pathan,JDP Oram,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,19,2,IK Pathan,SM Katich,JDP Oram,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,19,3,SM Katich,IK Pathan,JDP Oram,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,19,4,IK Pathan,SM Katich,JDP Oram,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,19,5,SM Katich,IK Pathan,JDP Oram,0,0,0,0,0,0,2,0,2,,,
+61,2,Kings XI Punjab,Chennai Super Kings,19,6,SM Katich,IK Pathan,JDP Oram,0,0,0,0,0,0,1,0,1,,,

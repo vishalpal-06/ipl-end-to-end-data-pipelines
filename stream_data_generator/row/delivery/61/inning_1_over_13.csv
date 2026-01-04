@@ -1,0 +1,9 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,1,Chennai Super Kings,Kings XI Punjab,13,1,SK Raina,MEK Hussey,WA Mota,0,1,0,0,0,0,0,1,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,13,2,SK Raina,MEK Hussey,WA Mota,0,0,0,0,0,0,0,0,0,SK Raina,caught,IK Pathan
+61,1,Chennai Super Kings,Kings XI Punjab,13,3,MEK Hussey,JDP Oram,WA Mota,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,13,4,JDP Oram,MEK Hussey,WA Mota,0,1,0,0,0,0,0,1,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,13,5,JDP Oram,MEK Hussey,WA Mota,0,0,0,0,0,0,0,0,0,,,
+61,1,Chennai Super Kings,Kings XI Punjab,13,6,JDP Oram,MEK Hussey,WA Mota,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,13,7,MEK Hussey,JDP Oram,WA Mota,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,13,8,JDP Oram,MEK Hussey,WA Mota,0,0,0,0,0,0,1,0,1,,,

@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,1,Deccan Chargers,Kolkata Knight Riders,5,1,AC Gilchrist,VVS Laxman,AB Dinda,0,0,0,0,0,0,1,0,1,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,5,2,VVS Laxman,AC Gilchrist,AB Dinda,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,5,3,VVS Laxman,AC Gilchrist,AB Dinda,0,0,0,0,0,0,0,0,0,VVS Laxman,caught,LR Shukla
+64,1,Deccan Chargers,Kolkata Knight Riders,5,4,AC Gilchrist,A Symonds,AB Dinda,0,0,0,0,0,0,1,0,1,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,5,5,A Symonds,AC Gilchrist,AB Dinda,0,0,0,0,0,0,0,0,0,,,
+64,1,Deccan Chargers,Kolkata Knight Riders,5,6,A Symonds,AC Gilchrist,AB Dinda,0,0,0,0,0,0,0,0,0,,,

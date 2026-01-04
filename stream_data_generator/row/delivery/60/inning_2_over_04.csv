@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,4,1,W Jaffer,JH Kallis,I Sharma,0,0,0,0,0,0,2,0,2,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,4,2,W Jaffer,JH Kallis,I Sharma,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,4,3,JH Kallis,W Jaffer,I Sharma,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,4,4,JH Kallis,W Jaffer,I Sharma,0,0,0,1,0,0,0,1,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,4,5,W Jaffer,JH Kallis,I Sharma,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,4,6,W Jaffer,JH Kallis,I Sharma,0,0,0,0,0,0,0,0,0,,,

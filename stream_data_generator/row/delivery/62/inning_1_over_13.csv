@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,13,1,M Rawat,RA Jadeja,R Bhatia,0,0,0,0,0,0,0,0,0,M Rawat,bowled,
+62,1,Rajasthan Royals,Delhi Daredevils,13,2,D Salunkhe,RA Jadeja,R Bhatia,0,0,0,0,0,0,4,0,4,,,
+62,1,Rajasthan Royals,Delhi Daredevils,13,3,D Salunkhe,RA Jadeja,R Bhatia,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,13,4,RA Jadeja,D Salunkhe,R Bhatia,0,2,0,0,0,0,0,2,2,,,
+62,1,Rajasthan Royals,Delhi Daredevils,13,5,D Salunkhe,RA Jadeja,R Bhatia,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,13,6,D Salunkhe,RA Jadeja,R Bhatia,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,13,7,RA Jadeja,D Salunkhe,R Bhatia,0,0,0,0,0,0,1,0,1,,,

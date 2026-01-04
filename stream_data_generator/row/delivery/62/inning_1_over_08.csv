@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,8,1,M Kaif,DS Lehmann,MF Maharoof,0,0,0,1,0,0,0,1,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,8,2,DS Lehmann,M Kaif,MF Maharoof,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,8,3,M Kaif,DS Lehmann,MF Maharoof,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,8,4,DS Lehmann,M Kaif,MF Maharoof,0,0,0,0,0,0,0,0,0,DS Lehmann,lbw,
+62,1,Rajasthan Royals,Delhi Daredevils,8,5,RA Jadeja,M Kaif,MF Maharoof,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,8,6,RA Jadeja,M Kaif,MF Maharoof,0,0,0,0,0,0,1,0,1,,,

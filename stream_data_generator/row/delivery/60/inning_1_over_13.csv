@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,1,RT Ponting,BB McCullum,JH Kallis,0,0,0,0,0,0,0,0,0,RT Ponting,caught,P Kumar
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,2,BB McCullum,DJ Hussey,JH Kallis,0,0,0,0,0,0,4,0,4,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,3,BB McCullum,DJ Hussey,JH Kallis,0,0,0,0,0,0,0,0,0,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,4,BB McCullum,DJ Hussey,JH Kallis,0,0,0,0,0,0,2,0,2,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,5,BB McCullum,DJ Hussey,JH Kallis,0,1,0,0,0,0,0,1,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,6,BB McCullum,DJ Hussey,JH Kallis,0,0,0,0,0,0,4,0,4,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,13,7,BB McCullum,DJ Hussey,JH Kallis,0,0,0,0,0,0,1,0,1,,,

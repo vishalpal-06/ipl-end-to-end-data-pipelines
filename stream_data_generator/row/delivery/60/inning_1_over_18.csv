@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,18,1,DJ Hussey,BB McCullum,AA Noffke,0,0,0,0,0,0,0,0,0,DJ Hussey,caught,CL White
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,18,2,BB McCullum,Mohammad Hafeez,AA Noffke,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,18,3,Mohammad Hafeez,BB McCullum,AA Noffke,0,0,0,0,0,0,0,0,0,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,18,4,Mohammad Hafeez,BB McCullum,AA Noffke,0,0,0,0,0,0,1,0,1,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,18,5,BB McCullum,Mohammad Hafeez,AA Noffke,0,0,0,0,0,0,4,0,4,,,
+60,1,Kolkata Knight Riders,Royal Challengers Bangalore,18,6,BB McCullum,Mohammad Hafeez,AA Noffke,0,0,0,0,0,0,1,0,1,,,

@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,11,1,KC Sangakkara,JR Hopes,P Amarnath,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,11,2,JR Hopes,KC Sangakkara,P Amarnath,0,0,0,0,0,0,0,0,0,JR Hopes,caught,Joginder Sharma
+61,2,Kings XI Punjab,Chennai Super Kings,11,3,KC Sangakkara,Yuvraj Singh,P Amarnath,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,11,4,Yuvraj Singh,KC Sangakkara,P Amarnath,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,11,5,KC Sangakkara,Yuvraj Singh,P Amarnath,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,11,6,Yuvraj Singh,KC Sangakkara,P Amarnath,0,0,0,0,0,0,1,0,1,,,

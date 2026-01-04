@@ -1,0 +1,9 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,1,B Akhil,CL White,AB Agarkar,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,2,B Akhil,CL White,AB Agarkar,0,0,0,0,0,0,0,0,0,B Akhil,caught,RT Ponting
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,3,AA Noffke,CL White,AB Agarkar,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,4,AA Noffke,CL White,AB Agarkar,0,1,0,0,0,0,0,1,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,5,AA Noffke,CL White,AB Agarkar,0,1,0,0,0,0,0,1,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,6,AA Noffke,CL White,AB Agarkar,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,7,CL White,AA Noffke,AB Agarkar,0,0,0,0,0,0,2,0,2,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,9,8,CL White,AA Noffke,AB Agarkar,0,0,0,0,0,0,0,0,0,CL White,caught,WP Saha

@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,1,1,K Goel,JR Hopes,JDP Oram,0,0,0,0,0,0,4,0,4,,,
+61,2,Kings XI Punjab,Chennai Super Kings,1,2,K Goel,JR Hopes,JDP Oram,0,0,0,0,0,0,0,0,0,,,
+61,2,Kings XI Punjab,Chennai Super Kings,1,3,K Goel,JR Hopes,JDP Oram,0,0,0,0,0,0,0,0,0,,,
+61,2,Kings XI Punjab,Chennai Super Kings,1,4,K Goel,JR Hopes,JDP Oram,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,1,5,JR Hopes,K Goel,JDP Oram,0,0,0,0,0,0,0,0,0,,,
+61,2,Kings XI Punjab,Chennai Super Kings,1,6,JR Hopes,K Goel,JDP Oram,0,0,0,0,0,0,4,0,4,,,

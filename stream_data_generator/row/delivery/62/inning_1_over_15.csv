@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,15,1,RA Jadeja,D Salunkhe,DL Vettori,0,0,0,0,0,0,6,0,6,,,
+62,1,Rajasthan Royals,Delhi Daredevils,15,2,RA Jadeja,D Salunkhe,DL Vettori,0,0,0,0,0,0,0,0,0,RA Jadeja,bowled,
+62,1,Rajasthan Royals,Delhi Daredevils,15,3,SK Warne,D Salunkhe,DL Vettori,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,15,4,SK Warne,D Salunkhe,DL Vettori,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,15,5,D Salunkhe,SK Warne,DL Vettori,0,0,0,0,0,0,1,0,1,,,
+62,1,Rajasthan Royals,Delhi Daredevils,15,6,SK Warne,D Salunkhe,DL Vettori,0,0,0,0,0,0,1,0,1,,,

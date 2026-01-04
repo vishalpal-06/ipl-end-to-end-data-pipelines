@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,2,Delhi Daredevils,Rajasthan Royals,15,1,G Gambhir,S Dhawan,SK Trivedi,0,1,0,0,0,0,0,1,1,,,
+62,2,Delhi Daredevils,Rajasthan Royals,15,2,G Gambhir,S Dhawan,SK Trivedi,0,0,0,0,0,0,1,0,1,,,
+62,2,Delhi Daredevils,Rajasthan Royals,15,3,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,0,0,4,0,4,,,
+62,2,Delhi Daredevils,Rajasthan Royals,15,4,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,0,0,2,0,2,,,
+62,2,Delhi Daredevils,Rajasthan Royals,15,5,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,0,0,4,0,4,,,
+62,2,Delhi Daredevils,Rajasthan Royals,15,6,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,0,0,1,0,1,,,
+62,2,Delhi Daredevils,Rajasthan Royals,15,7,G Gambhir,S Dhawan,SK Trivedi,0,0,0,0,0,0,0,0,0,,,

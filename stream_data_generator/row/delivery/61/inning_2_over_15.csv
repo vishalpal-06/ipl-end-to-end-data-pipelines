@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,2,Kings XI Punjab,Chennai Super Kings,15,1,KC Sangakkara,Yuvraj Singh,Joginder Sharma,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,15,2,Yuvraj Singh,KC Sangakkara,Joginder Sharma,0,0,0,0,0,0,0,0,0,Yuvraj Singh,caught,P Amarnath
+61,2,Kings XI Punjab,Chennai Super Kings,15,3,KC Sangakkara,SM Katich,Joginder Sharma,0,0,0,0,0,0,4,0,4,,,
+61,2,Kings XI Punjab,Chennai Super Kings,15,4,KC Sangakkara,SM Katich,Joginder Sharma,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,15,5,SM Katich,KC Sangakkara,Joginder Sharma,0,0,0,0,0,0,1,0,1,,,
+61,2,Kings XI Punjab,Chennai Super Kings,15,6,KC Sangakkara,SM Katich,Joginder Sharma,0,0,0,0,0,0,6,0,6,,,

@@ -1,0 +1,8 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,1,SB Joshi,P Kumar,I Sharma,0,1,0,0,0,0,0,1,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,2,SB Joshi,P Kumar,I Sharma,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,3,SB Joshi,P Kumar,I Sharma,0,0,0,0,0,0,0,0,0,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,4,SB Joshi,P Kumar,I Sharma,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,5,P Kumar,SB Joshi,I Sharma,0,0,0,1,0,0,0,1,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,6,SB Joshi,P Kumar,I Sharma,0,0,0,0,0,0,1,0,1,,,
+60,2,Royal Challengers Bangalore,Kolkata Knight Riders,15,7,P Kumar,SB Joshi,I Sharma,0,0,0,0,0,0,0,0,0,,,

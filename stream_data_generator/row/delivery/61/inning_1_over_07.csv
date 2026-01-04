@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+61,1,Chennai Super Kings,Kings XI Punjab,7,1,ML Hayden,MEK Hussey,IK Pathan,0,0,0,0,0,0,4,0,4,,,
+61,1,Chennai Super Kings,Kings XI Punjab,7,2,ML Hayden,MEK Hussey,IK Pathan,0,0,0,0,0,0,0,0,0,ML Hayden,bowled,
+61,1,Chennai Super Kings,Kings XI Punjab,7,3,MS Dhoni,MEK Hussey,IK Pathan,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,7,4,MEK Hussey,MS Dhoni,IK Pathan,0,0,0,0,0,0,2,0,2,,,
+61,1,Chennai Super Kings,Kings XI Punjab,7,5,MEK Hussey,MS Dhoni,IK Pathan,0,0,0,0,0,0,1,0,1,,,
+61,1,Chennai Super Kings,Kings XI Punjab,7,6,MS Dhoni,MEK Hussey,IK Pathan,0,0,0,0,0,0,1,0,1,,,

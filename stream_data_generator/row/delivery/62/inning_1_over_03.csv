@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+62,1,Rajasthan Royals,Delhi Daredevils,3,1,T Kohli,YK Pathan,GD McGrath,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,3,2,T Kohli,YK Pathan,GD McGrath,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,3,3,T Kohli,YK Pathan,GD McGrath,0,0,0,0,0,0,0,0,0,T Kohli,caught,M Manhas
+62,1,Rajasthan Royals,Delhi Daredevils,3,4,SR Watson,YK Pathan,GD McGrath,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,3,5,SR Watson,YK Pathan,GD McGrath,0,0,0,0,0,0,0,0,0,,,
+62,1,Rajasthan Royals,Delhi Daredevils,3,6,SR Watson,YK Pathan,GD McGrath,0,0,0,0,0,0,0,0,0,,,

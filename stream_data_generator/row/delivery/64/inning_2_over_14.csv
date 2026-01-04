@@ -1,0 +1,7 @@
+match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
+64,2,Kolkata Knight Riders,Deccan Chargers,14,1,DJ Hussey,Mohammad Hafeez,A Symonds,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,14,2,Mohammad Hafeez,DJ Hussey,A Symonds,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,14,3,Mohammad Hafeez,DJ Hussey,A Symonds,0,0,0,0,0,0,0,0,0,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,14,4,Mohammad Hafeez,DJ Hussey,A Symonds,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,14,5,DJ Hussey,Mohammad Hafeez,A Symonds,0,0,0,0,0,0,1,0,1,,,
+64,2,Kolkata Knight Riders,Deccan Chargers,14,6,Mohammad Hafeez,DJ Hussey,A Symonds,0,0,0,0,0,0,6,0,6,,,
