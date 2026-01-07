@@ -1,5 +1,0 @@
-match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
-64,1,Deccan Chargers,Kolkata Knight Riders,19,1,RP Singh,SB Bangar,M Kartik,0,0,0,0,0,0,1,0,1,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,19,2,SB Bangar,RP Singh,M Kartik,0,0,0,0,0,0,4,0,4,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,19,3,SB Bangar,RP Singh,M Kartik,0,0,0,0,0,0,0,0,0,SB Bangar,caught,WP Saha
-64,1,Deccan Chargers,Kolkata Knight Riders,19,4,RP Singh,PP Ojha,M Kartik,0,0,0,0,0,0,0,0,0,PP Ojha,run out,Mohammad Hafeez

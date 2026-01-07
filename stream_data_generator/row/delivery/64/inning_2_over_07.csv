@@ -1,8 +1,0 @@
-match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
-64,2,Kolkata Knight Riders,Deccan Chargers,7,1,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,0,0,0,0,0,0,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,7,2,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,0,0,0,0,0,0,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,7,3,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,0,0,0,0,0,0,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,7,4,SC Ganguly,DJ Hussey,SB Bangar,0,5,0,0,0,0,0,5,5,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,7,5,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,0,0,0,0,0,0,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,7,6,SC Ganguly,DJ Hussey,SB Bangar,0,0,0,0,0,0,1,0,1,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,7,7,DJ Hussey,SC Ganguly,SB Bangar,0,0,0,0,0,0,1,0,1,,,

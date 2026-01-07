@@ -1,7 +1,0 @@
-match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
-64,1,Deccan Chargers,Kolkata Knight Riders,11,1,A Symonds,SB Styris,M Kartik,0,0,0,0,0,0,0,0,0,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,11,2,A Symonds,SB Styris,M Kartik,0,0,0,0,0,0,0,0,0,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,11,3,A Symonds,SB Styris,M Kartik,0,0,0,0,0,0,0,0,0,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,11,4,A Symonds,SB Styris,M Kartik,0,0,0,0,0,0,0,0,0,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,11,5,A Symonds,SB Styris,M Kartik,0,0,0,0,0,0,1,0,1,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,11,6,SB Styris,A Symonds,M Kartik,0,0,0,0,0,0,4,0,4,,,

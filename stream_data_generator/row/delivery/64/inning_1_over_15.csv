@@ -1,7 +1,0 @@
-match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
-64,1,Deccan Chargers,Kolkata Knight Riders,15,1,AS Yadav,A Symonds,DJ Hussey,0,0,0,0,0,0,6,0,6,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,15,2,AS Yadav,A Symonds,DJ Hussey,0,0,0,0,0,0,0,0,0,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,15,3,AS Yadav,A Symonds,DJ Hussey,0,0,0,0,0,0,0,0,0,AS Yadav,caught,AB Dinda
-64,1,Deccan Chargers,Kolkata Knight Riders,15,4,A Symonds,SB Bangar,DJ Hussey,0,0,0,0,0,0,1,0,1,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,15,5,SB Bangar,A Symonds,DJ Hussey,0,0,0,0,0,0,1,0,1,,,
-64,1,Deccan Chargers,Kolkata Knight Riders,15,6,A Symonds,SB Bangar,DJ Hussey,0,0,0,0,0,0,4,0,4,,,

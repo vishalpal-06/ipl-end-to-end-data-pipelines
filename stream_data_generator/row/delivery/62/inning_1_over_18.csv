@@ -1,7 +1,0 @@
-match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
-62,1,Rajasthan Royals,Delhi Daredevils,18,1,SK Warne,D Salunkhe,MF Maharoof,0,0,0,0,0,0,0,0,0,SK Warne,bowled,
-62,1,Rajasthan Royals,Delhi Daredevils,18,2,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,0,0,0,0,0,,,
-62,1,Rajasthan Royals,Delhi Daredevils,18,3,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,0,0,0,0,0,,,
-62,1,Rajasthan Royals,Delhi Daredevils,18,4,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,0,0,0,0,0,,,
-62,1,Rajasthan Royals,Delhi Daredevils,18,5,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,0,0,1,0,1,,,
-62,1,Rajasthan Royals,Delhi Daredevils,18,6,D Salunkhe,SK Trivedi,MF Maharoof,0,0,0,0,0,0,0,0,0,,,

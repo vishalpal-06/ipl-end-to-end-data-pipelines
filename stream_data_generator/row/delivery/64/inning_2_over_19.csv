@@ -1,7 +1,0 @@
-match_id,inning,batting_team,bowling_team,over,ball,batsman,non_striker,bowler,is_super_over,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,player_dismissed,dismissal_kind,fielder
-64,2,Kolkata Knight Riders,Deccan Chargers,19,1,LR Shukla,DJ Hussey,PP Ojha,0,0,0,0,0,0,1,0,1,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,19,2,DJ Hussey,LR Shukla,PP Ojha,0,0,0,1,0,0,0,1,1,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,19,3,LR Shukla,DJ Hussey,PP Ojha,0,0,0,0,0,0,0,0,0,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,19,4,LR Shukla,DJ Hussey,PP Ojha,0,0,0,0,0,0,1,0,1,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,19,5,DJ Hussey,LR Shukla,PP Ojha,0,0,0,0,0,0,0,0,0,,,
-64,2,Kolkata Knight Riders,Deccan Chargers,19,6,DJ Hussey,LR Shukla,PP Ojha,0,0,0,0,0,0,6,0,6,,,
